@@ -1,13 +1,17 @@
 # Seminario proyecto Movilidad urbana
 Repositorio de proyecto de caso de estudio 
 
-**Análisis Geoespacial de la Movilidad Urbana en Nueva York.**
+**Nombre casdo de estudio**
+Análisis Geoespacial de la Movilidad Urbana en Nueva York.**
 
 **Integrantes**
 
 Leonardo Mafla
 Vanessa Nasimba
 Edwin Tapia
+
+**Tema**
+Análisis de datos geoespaciales de viajes en taxi en Nueva York para identificar patrones de movilidad urbana y optimizar rutas y servicios.
 
 **Obejtivos**
 Consstruitr un sistema analitico completo que : 
