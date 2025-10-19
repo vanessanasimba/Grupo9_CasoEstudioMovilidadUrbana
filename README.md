@@ -1,4 +1,4 @@
-# seminario
+# Seminario proyecto Movilidad urbana
 Repositorio de proyecto de caso de estudio 
 
 **Análisis Geoespacial de la Movilidad Urbana en Nueva York.**
